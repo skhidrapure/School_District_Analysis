@@ -12,7 +12,7 @@ Here using the Pandas loc method with conditional statements and comparison and 
 
 Below is the screenshot showing the results/output.
 
-![](Resources/replacing _ninth_grade_score_NAN.png)
+![](Resources/replacing_ninth_grade_score_NAN.png)
 
  
 **Deliverable 2**
@@ -23,7 +23,7 @@ Below is the screenshot showing the results/output.
 Here is the screenshot showing the summary of the school district.
 
 
-![](Resources/School_District_Analysis_summary.png
+![](Resources/School_District_Analysis_summary.png)
 
 After evaluating, we noticed that there was a drop in the average math score, the % passing math, the % passing reading & the % for overall passing by 0.1, 0.2%, 0.3% & 0.1%  whereas the average reading score stayed the same.
 
@@ -31,7 +31,7 @@ After evaluating, we noticed that there was a drop in the average math score, th
 
 Here is the screenshot showing the summary of the school.
 
-![](Resources/school_summary.png
+![](Resources/school_summary.png)
 
 We noticed that there were drop in the average math score, % passing math, % passing Reading & % overall passing by 0.067, 0.086%, 0.290%, 0.317% , whereas the an increase in the average reading score by 0.0471
 
@@ -44,27 +44,27 @@ We observed a drop in the % overall passing by 0.317% when we replaced the ninth
 
 Here is the screenshot showing the math & reading scores by grade.
 
-![](Resources/Math_score_by_grade.png
+![](Resources/Math_score_by_grade.png)
 
-![](Resources/Reading_score_by_grade.png
+![](Resources/Reading_score_by_grade.png)
 
 2. Scores by school spending
 
 Here is the screenshot showing the scores by school spending.
 
-![](Resources/Scores_by_spending.png
+![](Resources/Scores_by_spending.png)
 
 3. Scores by school size
 
 Here is the screenshot showing the scores by school size.
 
-![](Resources/Scores_by_schoolsize.png
+![](Resources/Scores_by_schoolsize.png)
 
 4. Scores by school type
 
 Here is the screenshot showing the summary of the school.
 
-![](Resources/Scores_by_schooltype.png
+![](Resources/Scores_by_schooltype.png)
 
 
 After assessing the above data, we noticed that, there were no changes in the data for the math & reading score by grade, scores by school spending, scores by school size & scores by school type.
